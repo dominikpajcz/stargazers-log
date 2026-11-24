@@ -1,2 +1,3 @@
 # stargazers-log
-practise
+practice
+jakaś strona internetowa
